@@ -1,0 +1,23 @@
+.BloodyButton{
+  position: absolute;
+  top: 810px;
+}
+.M{
+  position: absolute;
+  top: 150px;
+  left: 330px;
+  width: 125px;
+  display: none;
+}
+.O{
+  position: absolute;
+  top: 515px;
+  left: 62px;
+  width: 1051px;
+  display: none;
+  transform: rotate(9deg);
+}
+
+.N{
+  display: inline;
+}
